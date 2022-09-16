@@ -1,7 +1,11 @@
-nav {
-    display:flex;
+nav{
+    display:flex
 }
 
-.nav__botao
-.nav__icon
-    width:35px;
+.nav__logo,
+.nav__botao {
+    width: 35px;
+    height: 35px;
+    background-color: black;
+}
+   
